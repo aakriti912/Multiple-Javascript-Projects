@@ -1,0 +1,29 @@
+.about{
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+.text-container{
+
+    background-color: azure;
+    
+}
+.text-container p{
+    padding-top: 20px;
+    }
+ .content{
+     display: block;
+ }   
+ 
+#vision2{
+    display: none;
+}
+#goals3{
+    display: none;
+} */
+.content{
+    display: none;
+}
+.content .active{
+    display: block;
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300;400&family=EB+Garamond&family=Mulish:wght@200&family=Neonderthaw&family=The+Nautigal&display=swap');
+#main{
+    background-color: aquamarine;
+    text-align: center;
+}
+.heading{
+    font-family: 'Neonderthaw', cursive;
+    font-family: 'The Nautigal', cursive;
+    
+    color: #FF6363;
+    padding-top: 60px;
+}
+.container{
+    
+    width: 80%;
+    padding: 10px;
+    
+}
+.sm-container{
+    font-family: 'Dongle', sans-serif;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Mulish', sans-serif;
+    margin: 10px;
+  
+    background-color: whitesmoke;
+    text-align: center;
+    
+}
+button{
+   
+   font-size: x-small;
+   height: 16px;
+}
+span{
+   font-size: 15px;
+   color: #FF6363 ;
+}
+.answer{
+   display: none;
+    color: black;
+
+}
+.minus{
+    text-align: center;
+    color: red;
+    display: none;
+
+}
+.show-text .answer{
+    display: block;
+}
+.show-text1 .minus{
+    display: block;
+}
